@@ -1,16 +1,22 @@
+<!-- SEO-Friendly Static Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=System+Design+%26+Architecture;Advanced+Data+Structures+%26+Algorithms;AI+%26+Machine+Learning+Pipelines;Building+Logic.+Solving+Problems." alt="SDE and AI Header" />
-</div>
-
-<br>
-
-<div align="center">
+  <h1>Hi 👋, I'm Harsh Panchigar</h1>
+  <h3>Software Development Engineer | AI & ML Enthusiast</h3>
   <p><b>Mastering Advanced DSA in Python | Engineering Scalable Backends | Training Intelligent Models</b></p>
 </div>
 
 ---
 
-### 🧠 **Artificial Intelligence & Machine Learning**
+### 🧠 **Engineering Focus**
+
+- 🚀 **Core Domain:** Software Development Engineering (SDE), System Design, and Scalable Backend Architecture.
+- 🤖 **Data & AI:** Building pipelines, working with Data Science libraries, and exploring Machine Learning.
+- 📈 **Current Trajectory:** Mastering Advanced DSA in Python and laying the groundwork for Master's level computing.
+- 💡 **Experience:** 2 years of technical problem-solving, building logic, and writing clean, efficient code.
+
+<br>
+
+### 🤖 **Artificial Intelligence & Machine Learning**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -18,7 +24,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -33,7 +39,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -47,23 +53,13 @@
 ### ♟️ **The Logical Arena**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Conway's Game of Life (Cellular Automaton)</b><br><br>
-        <!-- A placeholder for an algorithmic visualizer - you can replace this URL with a GitHub action generated GIF later -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width="300" alt="Game of Life Logic" />
-      </td>
-      <td align="center">
-        <b>Interactive Profile Chess</b><br><br>
-        <!-- This represents the widely popular GitHub Readme Chess game -->
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/issues/new?title=Chess%7C...">
-          <img src="https://raw.githubusercontent.com/khalby786/readme-chess/master/chess-board.svg" width="300" alt="Play Chess With Me" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p><i>A demonstration of zero-player logic loops and turn-based algorithmic state management.</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+  <p><i>A visualizer driven by commit logic.</i></p>
 </div>
 
 <br>
@@ -73,6 +69,6 @@
 ### 📊 **Engineering Telemetry**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchigar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" alt="Harsh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchigar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" alt="Harsh's Top Languages" />
 </div>
