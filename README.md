@@ -1,18 +1,16 @@
 <!-- SEO-Friendly Static Header -->
 <div align="center">
   <h1>Hi 👋, I'm Harsh Panchigar</h1>
-  <h3>Software Development Engineer | AI & ML Enthusiast</h3>
-  <p><b>Mastering Advanced DSA in Python | Engineering Scalable Backends | Training Intelligent Models</b></p>
+  <h3>Backend Developer</h3>
+  <h4>🚀 Aspiring SDE & AI/ML Architect</h4>
+  <p><b>Mastering DSA | Engineering Scalable Backends | Training Intelligent Models</b></p>
 </div>
 
----
+<br>
 
-### 🧠 **Engineering Focus**
-
-- 🚀 **Core Domain:** Software Development Engineering (SDE), System Design, and Scalable Backend Architecture.
-- 🤖 **Data & AI:** Building pipelines, working with Data Science libraries, and exploring Machine Learning.
-- 📈 **Current Trajectory:** Mastering Advanced DSA in Python and laying the groundwork for Master's level computing.
-- 💡 **Experience:** 2 years of technical problem-solving, building logic, and writing clean, efficient code.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchigar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak" />
+</div>
 
 <br>
 
@@ -50,25 +48,7 @@
 
 ---
 
-### ♟️ **The Logical Arena**
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br>
-  <p><i>A visualizer driven by commit logic.</i></p>
-</div>
-
-<br>
-
----
-
-### 📊 **Engineering Telemetry**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchigar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" alt="Harsh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchigar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" alt="Harsh's Top Languages" />
+  <h3>🐍 Code Consumption</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
 </div>
