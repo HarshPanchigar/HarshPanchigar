@@ -14,9 +14,9 @@
 
 <br>
 
-### 🤖 **Artificial Intelligence & Machine Learning**
-
 <div align="center">
+  <h3>🤖 <b>Artificial Intelligence & Machine Learning</b></h3>
+  <br>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
@@ -30,9 +30,9 @@
 
 <br>
 
-### ⚙️ **SDE & Backend Architecture (Python Ecosystem)**
-
 <div align="center">
+  <h3>⚙️ <b>SDE & Backend Architecture (Python Ecosystem)</b></h3>
+  <br>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -50,5 +50,9 @@
 
 <div align="center">
   <h3>🐍 Code Consumption</h3>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake.svg">
+    <img alt="Harsh's Contribution Snake" src="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake.svg" width="80%">
+  </picture>
 </div>
