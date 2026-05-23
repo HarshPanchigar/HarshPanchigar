@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchigar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchigar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&v=1" alt="GitHub Streak" />
 </div>
 
 <br>
