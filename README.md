@@ -48,6 +48,7 @@
 
 ---
 
+
 <div align="center">
   <h3>🐍 Code Consumption</h3>
   <picture>
