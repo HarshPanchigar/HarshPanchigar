@@ -47,7 +47,11 @@
 <br>
 
 ---
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPanchigar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 <div align="center">
   <h3>🐍 Code Consumption</h3>
