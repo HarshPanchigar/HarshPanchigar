@@ -180,11 +180,10 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <div align="center">
   
-  <!-- Pac-Man Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake.svg">
+    <img alt="Harsh's Contribution Snake" src="https://raw.githubusercontent.com/HarshPanchigar/HarshPanchigar/output/github-snake.svg" width="100%">
   </picture>
   
   <br/>
