@@ -35,7 +35,7 @@
     
     <text x="35" y="120" fill="#a78bfa">"name"</text>
     <text x="90" y="120" fill="#9ca3af">:</text>
-    <text x="100" y="120" fill="#34d399">"Redoyanul Haque"</text>
+    <text x="100" y="120" fill="#34d399">"Harsh Panchigar"</text>
     <text x="245" y="120" fill="#9ca3af">,</text>
     
     <text x="35" y="145" fill="#a78bfa">"role"</text>
@@ -45,7 +45,7 @@
     
     <text x="35" y="170" fill="#a78bfa">"location"</text>
     <text x="115" y="170" fill="#9ca3af">:</text>
-    <text x="125" y="170" fill="#34d399">"Bangladesh 🇧🇩"</text>
+    <text x="125" y="170" fill="#34d399">"Ahmedabad"</text>
     <text x="265" y="170" fill="#9ca3af">,</text>
     
     <text x="35" y="195" fill="#a78bfa">"focus"</text>
