@@ -182,7 +182,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
   
   <br/>
   
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  <sub>👾 Watch Snack devour my contributions!</sub>
   
 </div>
 
